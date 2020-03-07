@@ -19,7 +19,7 @@ export const products = [
     heding1: 'サンプルテキスト１',
     heding2: 'サンプルテキスト2',
     heding3: 'サンプルテキスト3',
-    hedingtext1: 'サンプル１',
+    hedingtext1: 'サンプル---１',
     hedingtext2: 'サンプル2',
     hedingtext3: 'サンプル3'
   },
@@ -31,7 +31,7 @@ export const products = [
     heding1: 'サンプルテキスト１',
     heding2: 'サンプルテキスト2',
     heding3: 'サンプルテキスト3',
-    hedingtext1: 'サンプル１',
+    hedingtext1: 'サンプル---１',
     hedingtext2: 'サンプル2',
     hedingtext3: 'サンプル3'
   },
